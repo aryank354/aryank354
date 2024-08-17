@@ -24,9 +24,9 @@
 
 <p>
 
-<a href="[Your LinkedIn Profile URL]" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-<a href="[Your Twitter Profile URL]" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
-<a href="[Your Portfolio URL]" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aryan-kanojia-96727125a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://x.com/aryan59718" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
+<a href="https://github.com/Aryankanojia9654/AryanKanojia9654" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github" alt="Portfolio" /></a>
 
 </p>
 
@@ -68,8 +68,8 @@
 
 <p>
 
-<a href="[Your LeetCode Profile URL]" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="[Your Codeforces Profile URL]" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/Aryan_Kanojia/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/Aryan_Kanojia9654" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 
 </p>
 
@@ -114,7 +114,7 @@
 
 <p>
 
-<img src="https://profile-counter.glitch.me/[Your GitHub Username]/count.svg" />
+<img src="https://profile-counter.glitch.me/Aryankanojia9654/count.svg" />
 
 </p>
 
