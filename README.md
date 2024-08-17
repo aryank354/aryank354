@@ -26,7 +26,7 @@
 
 <a href="https://www.linkedin.com/in/aryan-kanojia-96727125a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://x.com/aryan59718" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
-<a href="https://github.com/Aryankanojia9654/AryanKanojia9654" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github" alt="Portfolio" /></a>
+<a href="[https://github.com/Aryankanojia9654/AryanKanojia9654](https://aryankanojia9654.github.io/portfolio-2/)" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github" alt="Portfolio" /></a>
 
 </p>
 
