@@ -8,9 +8,9 @@
 
 <br />
 
-<div align="center">
+<div align="center" style="margin: 0 auto; width: 100%; max-width: 900px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&width=1000&lines=💻+Diving+deep+into+DSA+in+C++;🌐+Building+web+apps+with+React%2C+Node%2C+Express%2C+MongoDB;🐧+Exploring+system-level+programming+on+Ubuntu+%26+Linux;🚀+Learning+new+frameworks+and+tools+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&width=900&lines=💻+Diving+deep+into+DSA+in+C++;🌐+Building+web+apps+with+React%2C+Node%2C+Express%2C+MongoDB;🐧+Exploring+system-level+programming+on+Ubuntu+%26+Linux;🚀+Learning+new+frameworks+and+tools+every+day" alt="Typing SVG" />
 
 </div>
 
