@@ -83,9 +83,9 @@
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aryankanojia9654&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your GitHub Username]&theme=radical" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankanojia9654&theme=radical" alt="GitHub Streak Stats" />
 
 </p>
 
