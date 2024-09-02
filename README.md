@@ -99,8 +99,9 @@
 
 <p>
 
-* *[Project 1 Name]* - [Brief Description]. [Link to Project](#)
-* *[Project 2 Name]* - [Brief Description]. [Link to Project](#)
+* **[Random Password Generator](https://github.com/Aryankanojia9654/random-password-generator)** - Created a secure password generator tool that helps users generate strong, random passwords to enhance online security.
+* **[Weather Web Application](https://github.com/Aryankanojia9654/weather-app)** - Developed a responsive weather web application that provides real-time weather updates for any location worldwide.
+* **[Face Recognition Based Attendance System](https://github.com/Aryankanojia9654/face_recognition_attendance_system)** - Developed a face recognition-based attendance system using OpenCV and Python, which marks attendance by comparing captured images with a database.
 
 </p>
 
