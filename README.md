@@ -28,19 +28,6 @@ Here are some of the repositories that showcase my work:
 3. **[Facebook Landing Page](https://github.com/Aryankanojia9654/facebook-landing-page):** A pixel-perfect clone of Facebook's landing page using HTML and CSS.
 4. **[Face Recognition Attendance System](https://github.com/Aryankanojia9654/face_recognition_attendance_system):** A Python-based project for face recognition.
 
----
-
-## 📈 GitHub Stats
-![Aryan Kanojia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryankanojia9654&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankanojia9654&layout=compact&theme=radical)](https://github.com/Aryankanojia9654)
-
----
-
-## 💡 Highlights
-- 🌐 **Open Source Contributions:** Actively contributing to collaborative projects.
-- 📁 **Learning:** Experimenting with new libraries and tools for web development.
-- 🔗 **Portfolio:** [Check out my portfolio (coming soon)]()
 
 ---
 
@@ -48,12 +35,6 @@ Here are some of the repositories that showcase my work:
 - **GitHub:** [Aryankanojia9654](https://github.com/Aryankanojia9654)
 - **LinkedIn:** [Aryan Kanojia](https://www.linkedin.com/in/aryan-kanojia-96727125a/) (Replace with your LinkedIn link)
 - **Email:** [aryankanojia354@gmail.com](mailto:aryankanojia354@gmail.com)
-
----
-
-### 🚀 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aryankanojia9654&theme=github)
-
 
 
 ---
