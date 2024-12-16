@@ -52,7 +52,8 @@ Here are some of the repositories that showcase my work:
 ---
 
 ### 🚀 Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Aryankanojia9654&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aryankanojia9654&theme=github)
+
 
 
 ---
