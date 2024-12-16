@@ -46,13 +46,14 @@ Here are some of the repositories that showcase my work:
 
 ## 🤝 Let’s Connect!
 - **GitHub:** [Aryankanojia9654](https://github.com/Aryankanojia9654)
-- **LinkedIn:** [Your LinkedIn]([#](https://www.linkedin.com/in/aryan-kanojia-96727125a/)) (Replace with your LinkedIn link)
-- **Email:** [Your Email](mailto:example@example.com)
+- **LinkedIn:** [Aryan Kanojia](https://www.linkedin.com/in/aryan-kanojia-96727125a/) (Replace with your LinkedIn link)
+- **Email:** [aryankanojia354@gmail.com](mailto:aryankanojia354@gmail.com)
 
 ---
 
 ### 🚀 Contribution Graph
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Aryankanojia9654&theme=github)
+
 
 ---
 
