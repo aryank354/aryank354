@@ -33,7 +33,7 @@ Here are some of the repositories that showcase my work:
 
 ## 🤝 Let’s Connect!
 - **GitHub:** [Aryankanojia9654](https://github.com/Aryankanojia9654)
-- **LinkedIn:** [Aryan Kanojia](https://www.linkedin.com/in/aryan-kanojia-96727125a/) (Replace with your LinkedIn link)
+- **LinkedIn:** [Aryan Kanojia](https://www.linkedin.com/in/aryan-kanojia-96727125a/)
 - **Email:** [aryankanojia354@gmail.com](mailto:aryankanojia354@gmail.com)
 
 
