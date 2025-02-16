@@ -5,7 +5,6 @@
 
 Welcome to my GitHub profile! I’m a student enthusiastic about web development, problem-solving, and building practical projects. I enjoy exploring technologies and applying my skills to solve real-world challenges.
 
-![pexels-dom-j-7304-303317](https://github.com/user-attachments/assets/6c490570-5a34-4bac-8507-8b6648e3001e)
 
 
 ---
