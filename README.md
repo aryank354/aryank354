@@ -1,3 +1,4 @@
+![GitHub Contribution Snake](https://raw.githubusercontent.com/aryankanojia354/aryankanojia354/output/github-contribution-grid-snake.svg)
 
 # 👋 Hi, I'm Aryan Kanojia (he/him)
 
