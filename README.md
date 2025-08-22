@@ -1,18 +1,20 @@
-# ✨ Aryan Kanojia
-### Full-Stack Developer | Building Scalable Web & Mobile Applications
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20F79A&center=true&vCenter=true&width=435&lines=Full-Stack+Development;React+%26+Next.js;Node.js+%26+Express.js;React+Native;DevOps+%26+System+Design" alt="Typing SVG" /></a>
-</p>
+<div align="center">
 
----
+# ✨ Aryan Kanojia
+  
+  ### Full-Stack Developer | Building Scalable Web & Mobile Applications
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20F79A&center=true&vCenter=true&width=435&lines=Full-Stack+Development;React+%26+Next.js;Node.js+%26+Express.js;React+Native;DevOps+%26+System+Design" alt="Typing SVG" /></a>
+</div>
+
+<hr />
 
 ### 🌟 About Me
 I'm a passionate and results-oriented developer with a strong foundation in **Full-Stack Web Development** and **Software Engineering** principles. As a **Smart India Hackathon 2024 Grand Finalist**, I specialize in building robust, end-to-end applications, from architecting scalable back-end systems to developing intuitive user interfaces. I thrive on tackling complex challenges, whether it's engineering a browser-based IDE, building a real-time ticketing marketplace, or creating privacy-focused cross-platform mobile apps.
 
----
+<hr />
 
 ### 🛠️ Currently engineering with:
-
 -   **Core Development:** Strong fundamentals in Data Structures, Algorithms, OOP, and System Design (LLD/HLD).
 -   **Frontend Development:** Building responsive and dynamic user interfaces with **React.js, Next.js, TypeScript,** and **Tailwind CSS**.
 -   **Backend Development:** Developing fast, scalable, and secure back-ends with **Node.js, Express.js, REST APIs,** and **JWT authentication**.
@@ -20,32 +22,36 @@ I'm a passionate and results-oriented developer with a strong foundation in **Fu
 -   **Databases & DevOps:** Managing data with **MongoDB** and **SQL**, and optimizing performance with tools like **Redis**. Familiar with **Docker** for containerization.
 -   **Developer Tools:** Proficient with **Git/GitHub, Linux, VS Code,** and **Postman** for a streamlined development workflow.
 
----
+<hr />
 
 ### 🚀 Featured Projects
+<table width="100%">
+  <tr>
+    <td>
+      <h4>💻 <a href="https://github.com/aryank354/your-repo-link">ZenCode Editor</a></h4>
+      <p>Engineered a full-stack, browser-based IDE to eliminate local environment setup friction, leveraging <strong>WebContainers</strong> to run a complete Node.js runtime entirely on the client-side. Integrated a local AI assistant using <strong>Ollama</strong> and built a rich developer interface with the <strong>Monaco Editor</strong> and secure OAuth (<strong>NextAuth.js</strong>).</p>
+      <p><strong><a href="https://your-live-demo-link.com">[Live Demo]</a></strong> | <strong><a href="https://github.com/aryank354/your-repo-link">[GitHub]</a></strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🎟️ <a href="https://github.com/aryank354/your-repo-link">EventFlow</a></h4>
+      <p>Architected a full-stack ticketing marketplace on a serverless <strong>Convex</strong> backend. Features a real-time queueing system with <strong>Convex cron jobs</strong> to fairly manage high-traffic sales and handles multi-party payments and seller payouts via <strong>Stripe Connect</strong>, secured with <strong>Clerk</strong> MFA.</p>
+      <p><strong><a href="https://your-live-demo-link.com">[Live Demo]</a></strong> | <strong><a href="https://github.com/aryank354/your-repo-link">[GitHub]</a></strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>💊 <a href="https://github.com/aryank354/your-repo-link">MediTrack</a></h4>
+      <p>Developed a privacy-focused, cross-platform mobile app (<strong>React Native</strong>) for medication scheduling and adherence tracking. Ensures user data security with biometric authentication and an offline-first approach using <strong>AsyncStorage</strong>. Includes custom push notifications, refill tracking, and progress history.</p>
+      <p><strong><a href="https://your-live-demo-link.com">[Live Demo]</a></strong> | <strong><a href="https://github.com/aryank354/your-repo-link">[GitHub]</a></strong></p>
+    </td>
+  </tr>
+</table>
 
-#### 💻 ZenCode Editor
-**[Live Demo](https://your-live-demo-link.com) | [GitHub](https://github.com/aryank354/your-repo-link)**
--   Engineered a full-stack, browser-based IDE to eliminate local environment friction, leveraging **WebContainers** to run a complete Node.js runtime entirely on the client-side.
--   Integrated a local AI assistant using **Ollama** to provide privacy-focused, real-time code completion and chat functionality, removing reliance on external cloud APIs.
--   Built a rich developer interface with the **Monaco Editor**, secure OAuth (**NextAuth.js**), and multi-framework project templating.
-
-#### 🎟️ EventFlow
-**[Live Demo](https://your-live-demo-link.com) | [GitHub](https://github.com/aryank354/your-repo-link)**
--   Architected a full-stack ticketing marketplace on a serverless **Convex** backend, allowing organizers to create events and manage sales.
--   Engineered a real-time queueing system with **Convex cron jobs** to fairly manage high-traffic sales and ensure platform stability.
--   Managed multi-party payments and seller payouts via **Stripe Connect** and secured the platform with **Clerk** MFA.
-
-#### 💊 MediTrack
-**[Live Demo](https://your-live-demo-link.com) | [GitHub](https://github.com/aryank354/your-repo-link)**
--   Developed a privacy-focused, cross-platform mobile app (**React Native**) for medication scheduling and adherence tracking.
--   Ensured user data security with biometric authentication (Face ID/Touch ID) and an offline-first approach using **AsyncStorage**.
--   Implemented a complete user workflow with custom push notifications, refill tracking, and progress history.
-
----
+<hr />
 
 ### 🧠 Technical Stack
-
 <table>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
@@ -87,23 +93,28 @@ I'm a passionate and results-oriented developer with a strong foundation in **Fu
   </tr>
 </table>
 
----
+<hr />
 
 ### 🏆 Achievements
 -   **Smart India Hackathon 2024 Grand Finalist** (Top 5 out of 49,000+ teams)
 -   **Global Rank 678** in LeetCode Biweekly Contest 139
 -   **Semifinalist** in Code Cubicles 3.0 (Geek Room & Mastercard)
 
----
+<hr />
 
 ### 📈 GitHub Snapshot
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank354&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryank354&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/aryank354/assets/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+<hr />
+
+### 📫 Let's Connect!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryank354/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <a href="https://www.linkedin.com/in/aryan-kanojia-96727125a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aryankanojia354@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
