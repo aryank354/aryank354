@@ -105,5 +105,5 @@ I'm a passionate and results-oriented developer with a strong foundation in **Fu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryank354&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryankanojia9654/aryank354/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/aryank354/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
