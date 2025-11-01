@@ -98,7 +98,7 @@ I'm a **passionate developer** who transforms ideas into reality through code. F
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryank354&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryank354&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=aryank354&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
